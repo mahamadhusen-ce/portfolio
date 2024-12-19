@@ -1,28 +1,35 @@
-## Portfolio-Website
-Portfolio website built using HTML5, CSS3, JavaScript, and jQuery.
+# Portfolio Website  
+A dynamic and visually captivating portfolio website built using modern web technologies, featuring interactive elements and animations.  
 
-<a href="husenkureshi.web.app" target="_blank">**Visit Now** 🚀</a>
-
-
-## 📌 Tech Stack
-[![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)](https://github.com/jigar-sable/Portfolio-Website/search?l=html)&nbsp;
-[![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)](https://github.com/jigar-sable/Portfolio-Website/search?l=css)&nbsp;
-[![JS](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://github.com/jigar-sable/Portfolio-Website/search?l=javascript)
-<img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>
-
-### Extras : 
-Particle.js, Typed.js, Tilt.js, Scroll Reveal, Tawk.to, Font Awesome and JSON
-
-## 📌 Sneak Peek of Main Page 🙈 :
-![mockup720](![image](https://github.com/user-attachments/assets/0f334972-5bf0-4239-9e30-5102414ce738)
-)
-![ss](![image](https://github.com/user-attachments/assets/9107e9a2-7622-4f58-a2d3-4f0dad930295)
-)
+<a href="https://husenkureshi.web.app/" target="_blank"><strong>Visit Now 🚀</strong></a>  
 
 
-<h2>📬 Contact</h2>
 
-Feel free to reach me through the below handles if you'd like to contact me.
+### Additional Libraries & Features  
+- **Particle.js**: Stunning particle effects for a dynamic background.  
+- **Typed.js**: Typing animations to showcase skills or messages.  
+- **Tilt.js**: 3D tilt effects on hover.  
+- **Scroll Reveal**: Smooth scrolling and reveal animations.  
+- **Font Awesome**: Rich icons for an elegant UI.  
+- **Tawk.to**: Integrated live chat for seamless communication.  
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jigar-sablee)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jigarsable.dev)
+---
+
+## 🎨 **Sneak Peek**  
+Take a quick look at the sleek and stylish design:  
+
+![Website Mockup](https://github.com/user-attachments/assets/0f334972-5bf0-4239-9e30-5102414ce738)  
+![Live Preview](https://github.com/user-attachments/assets/9107e9a2-7622-4f58-a2d3-4f0dad930295)  
+
+---
+
+## 📬 **Get in Touch**  
+Want to collaborate or just say hi? Connect with me through the platforms below:  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/mahamadhusen_kureshi_f2ce" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mahamadhusen_kureshi_f2ce" height="30" width="40" /></a>
+<a href="https://twitter.com/roy_joy_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="roy_joy_07" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mahamadhusen-kuresh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahamadhusen-kuresh" height="30" width="40" /></a>
+<a href="https://instagram.com/qureshi_hussain_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="qureshi_hussain_07" height="30" width="40" /></a>
+<a href="https://medium.com/@royalkureshio7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@royalkureshio7" height="30" width="40" /></a>
+</p>
