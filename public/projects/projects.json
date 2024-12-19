@@ -1,0 +1,33 @@
+[
+  {
+    "name": "OPET ",
+    "desc": "Opet is online platforms that allow users to create and share content, interact with others. Built using react native, firebase, Figma,",
+    "image": "Opet",
+    "category": "android",
+    "links": {
+      "view": "https://opet-a5e93.web.app/",
+      "code": "https://github.com/G19-team/OPET-social-media-app"
+    }
+  },
+  {
+    "name": "chatify | Chat app  ",
+    "desc": "Chatify enables secure, real-time messaging, file sharing, and collaboration with React, Node.js, and MongoDB.",
+    "image": "chatify",
+    "category": "basicweb",
+    "links": {
+      "view": "https://opet-a5e93.web.app/",
+      "code": "https://github.com/G19-team/OPET-social-media-app"
+    }
+  },
+  {
+    "name": "Chat bot using Amazon Lex Tool  ",
+    "desc": "Book hotels effortlessly with real-time availability, secure payments, and personalized options using our platform.",
+    "image": "chat bot",
+    "category": "colud",
+    "links": {
+      "view": "https://drive.google.com/file/d/1yyeSVp0vWoHvEA0pKRG4nxVBvLb9DDQf/view?usp=sharing",
+      "code": "https://github.com/G19-team/OPET-social-media-app"
+    }
+  }
+ 
+]
